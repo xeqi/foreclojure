@@ -5,5 +5,5 @@
 
 (deftest {{name}}
   {{#tests}}
-  {{.}}
+  (is {{.}})
   {{/tests}})
