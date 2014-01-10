@@ -1,4 +1,4 @@
-(defproject foreclojure/lein-template "0.1.0"
+(defproject foreclojure/lein-template "0.1.1-SNAPSHOT"
   :description "A template to populate a project from a 4clojure problem"
   :url "https://github.com/xeqi/foreclojure"
   :license {:name "Eclipse Public License"
